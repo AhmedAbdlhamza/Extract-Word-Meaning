@@ -2,7 +2,7 @@
 this code uses the BeautifulSoup library to extract the meanings and origins directly from the Merriam-Webster and Etymology Online websites.
  without the need for APIs. The list of words you want to look up should be in a file called "word_list.txt" in the same directory as the Python script, and the results will be written to a file called "word_results.txt" in the same directory.
  
- here's a brief explanation of the Python code:
+ #here's a brief explanation of the Python code:
  
 1-First, we read in the list of words we want to look up from a file called "word_list.txt".
 
